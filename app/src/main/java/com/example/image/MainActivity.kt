@@ -29,9 +29,6 @@ class MainActivity : AppCompatActivity() {
             }
             // takePicture.launch(null)
         }
-
-
-
     }
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, recIntent: Intent?) {
